@@ -65,7 +65,7 @@
                                 <p>Category: <span class="badge bg-info text-dark">Marketing</span></p>
                                 <p>Krishna Sahani | Mumbai <br> <small class="text-muted">Last updated 3 mins
                                         ago</small></p>
-                                <a href="blog1.html" type="button" class="btn btn-primary mt-3">Read blog</a>
+                                <a href="blog1.html" title="How to make online" type="button" class="btn btn-primary mt-3">Read blog</a>
                             </div>
                         </div>
                     </div>
