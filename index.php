@@ -16,7 +16,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container-fluid mx-5">
-            <a class="navbar-brand text-warning" href="index.html">
+            <a class="navbar-brand text-warning" href="index.php">
                 <h2>ReviewMe</h2>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
