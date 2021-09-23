@@ -49,8 +49,10 @@
                 <div class="card mb-5 shadow" style="max-width: 800px;">
                     <div class="row g-0">
                         <div class="col-md-5">
-                            <img src="https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                style="max-width: 100%;" class="rounded-start" alt="image" height="350">
+                            <!-- <img src="https://images.pexels.com/photos/572056/pexels-photo-572056.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                style="max-width: 100%;" class="rounded-start" alt="image" height="350"> -->
+                            <img src="images/marketing.jpeg"
+                            style="max-width: 100%;" class="rounded-start" alt="image" height="350">    
                         </div>
                         <div class="col-md-7 px-3">
                             <div class="card-body">
@@ -73,8 +75,10 @@
                 <div class="card mb-5 shadow" style="max-width: 800px;">
                     <div class="row g-0">
                         <div class="col-md-5">
-                            <img src="https://images.pexels.com/photos/248510/pexels-photo-248510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                style="max-width: 100%;" class="rounded-start" alt="image" height="350">
+                            <!-- <img src="https://images.pexels.com/photos/248510/pexels-photo-248510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                style="max-width: 100%;" class="rounded-start" alt="image" height="350"> -->
+                            <img src="images/gadgets.jpeg"
+                            style="max-width: 100%;" class="rounded-start" alt="image" height="350">        
                         </div>
                         <div class="col-md-7 px-3">
                             <div class="card-body">
@@ -99,8 +103,10 @@
                 <div class="card mb-5 shadow" style="max-width: 800px;">
                     <div class="row g-0">
                         <div class="col-md-5">
-                            <img src="https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                style="max-width: 100%;" class="rounded-start" alt="image" height="350">
+                            <!-- <img src="https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                style="max-width: 100%;" class="rounded-start" alt="image" height="350"> -->
+                            <img src="images/education.jpeg"
+                            style="max-width: 100%;" class="rounded-start" alt="image" height="350">
                         </div>
                         <div class="col-md-7 px-3">
                             <div class="card-body">
